@@ -3,7 +3,7 @@
 ​This project provides an end-to-end data analytics solution for a retail e-commerce business. I managed the entire data lifecycle—from raw data ingestion and cleaning in Python, through deep-dive database querying in SQL, to final executive visualization in Power BI.
 ​
 Image
-<img width="1364" height="680" alt="Project" src="https://github.com/user-attachments/assets/2129e361-fc42-4373-881f-6dac3d1500b3" />
+<img width="1365" height="717" alt="Screenshot 2026-06-15 165205" src="https://github.com/user-attachments/assets/cbd8e4f6-a73d-486f-8a69-f0d166cf3d0a" />
 
 Key Technical Contributions
 ​Data Engineering (Python/Pandas): Cleaned and standardized 3,500+ sales records.
